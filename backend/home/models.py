@@ -22,7 +22,7 @@ class CustomText(models.Model):
 
 
 class HomePage(models.Model):
-    body = models.TextField()
+    hjgfhjgjhjghj = models.TextField(blank=True,)
 
     @property
     def api(self):
